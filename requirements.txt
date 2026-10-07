@@ -1,1 +1,2 @@
-gevent>=1.1.1
+esdk-obs-python>=3.26.6
+gevent>=22.0.0
